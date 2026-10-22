@@ -14,4 +14,4 @@ deepfake checks for updates on start and every few hours. When one is out it ask
 
 ## If YouTube won't play
 
-YouTube sometimes asks apps to prove they aren't bots. Sign in with a spare Google account in deepfake's settings (YouTube sign-in) and it plays again.
+YouTube sometimes asks apps to prove they aren't bots. In deepfake's settings, under **YouTube account**, click **Sign in** and use a spare Google account; it plays again.
